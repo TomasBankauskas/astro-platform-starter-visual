@@ -17,7 +17,7 @@ sections:
       type: button
       label: Start Training Today
       url: /
-    layout: imgLeft
+    layout: imgRight
     background: primary
   - type: quote
     quote: >-
